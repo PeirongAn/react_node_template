@@ -1,0 +1,16 @@
+# 1. celint side
+## 启动
+```
+pnpm install
+pnpm dev
+```
+## 修改SERVER 地址
+修改src/config/proxy.ts
+
+# 2. server side
+```
+npm install
+npm start
+```
+### 修改DB 地址
+.env 文件
