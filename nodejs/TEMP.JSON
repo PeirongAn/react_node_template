@@ -1,0 +1,10 @@
+{
+    "status": "Success", 
+    "data": {
+        "role":"assistant",
+        "id":"d2852e1f-8593-42f7-8c6e-348ee93aa3c4",
+        "parentMessageId":"d2852e1f-8593-42f7-8c6e-348ee93aa3c4",
+        "conversationId":"1fea8549-bf1b-4033-8ec2-659dcf838ca4",
+        "text": "answer"
+    }
+}
